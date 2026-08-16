@@ -1,4 +1,4 @@
-agora um breve readme do frontend
+
 Frontend - Sistema de Gerenciamento
 📋 Sobre o Projeto
 Interface web para gerenciamento de projetos e tarefas, desenvolvida para consumir a API REST em Java Spring Boot.
